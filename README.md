@@ -1,2 +1,3 @@
 # terraform-ramtransform
-A repo to have all terraform related code in it
+
+Here in this repo we will log what all actions we will do.
