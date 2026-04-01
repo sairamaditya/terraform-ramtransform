@@ -15,6 +15,8 @@ ssh-add ~/.ssh/id_ed25519
 
 cat ~/.ssh/id_ed25519.pub
 
+Add this public file into your github account, this will allow access to repos for cloning.
+
 ssh -T git@github.com
 
 git clone <Your ssh clone link>
